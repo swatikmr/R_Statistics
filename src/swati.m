@@ -1,3 +1,5 @@
+//code changeS
+
 A = 1:10;
 P=diag(A);
 P=P.*P;
